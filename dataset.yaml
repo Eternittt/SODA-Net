@@ -1,0 +1,13 @@
+path: D:/Users/Eternit/Desktop/PycharmProjects/datasets/visdrone2019  # dataset root dir
+train: images/train  # train images (relative to 'path') 118287 images
+val: images/val # val images (relative to 'path') 5000 images
+test: images/test  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+
+
+names: [
+    'pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle',
+    'bus', 'motor'
+]
+
+
