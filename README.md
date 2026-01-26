@@ -1,10 +1,10 @@
 ### 1. install
 
-Install all dependencies for this project: `pip install -r requirements.txt`
+Install all dependencies for this project: 
 
 
 ```
-pip install ultralytics
+pip install -r requirements.txt
 ```
 
 ### 2.Usage
