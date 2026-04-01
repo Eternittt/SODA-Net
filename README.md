@@ -25,7 +25,7 @@ python val.py
 
 #### 3.1 Configuration Files (ultralytics/cfg)
 
-Model Architecture: Located in the models/SODA-YOLO subdirectory, containing detailed configuration files for network structures.
+Model Architecture: Located in the models/SODA-Net subdirectory, containing detailed configuration files for network structures.
 
 Dataset Settings: Defined in the dataset.yaml file, where paths, classes, and related parameters can be configured.
 
